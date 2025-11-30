@@ -41,7 +41,7 @@ load_dotenv(".env.local")
 CATALOG = [
     {
         "id": "mug-001",
-        "name": "Stoneware Chai Mug",
+        "name": "Chai Mug",
         "description": "Hand-glazed ceramic mug perfect for masala chai.",
         "price": 299,
         "currency": "INR",
@@ -52,7 +52,7 @@ CATALOG = [
     {
         "id": "tee-001",
         "name": "Dr Abhishek Tee (Cotton)",
-        "description": "Comfort-fit cotton t-shirt with subtle logo.",
+        "description": "cotton t-shirt with subtle logo.",
         "price": 799,
         "currency": "INR",
         "category": "tshirt",
@@ -62,7 +62,7 @@ CATALOG = [
     {
         "id": "hoodie-001",
         "name": "Cozy Hoodie",
-        "description": "Warm pullover hoodie, fleece-lined.",
+        "description": "pullover hoodie, fleece-lined.",
         "price": 1499,
         "currency": "INR",
         "category": "hoodie",
